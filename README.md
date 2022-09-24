@@ -20,9 +20,10 @@ Count the values from the data.
 Do plots like boxplots,countplot,distribution plot,histogram plot.
 
 ## PROGRAM:
+~~~
 Developed by : RAGUL M
 Registration Number : 212221230080
-~~~
+
 import pandas as pd
 import numpy as np
 import seaborn as sns
