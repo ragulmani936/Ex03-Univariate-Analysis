@@ -46,36 +46,36 @@ sns.histplot(x='Postal Code',data=df)
 ~~~
 ## OUTPUT:
 ## DATA
-![output]() 
+![output](https://github.com/ragulmani936/Ex03-Univariate-Analysis/blob/main/image1.jpg) 
 
 ## DATA HEAD
-![output]()
+![output](https://github.com/ragulmani936/Ex03-Univariate-Analysis/blob/main/image2.jpg)
 
 ## DATA INFORMATION
-![output]()
+![output](https://github.com/ragulmani936/Ex03-Univariate-Analysis/blob/main/image3.jpg)
 
 ## DATA DESCRIBE
-![output]()
+![output](https://github.com/ragulmani936/Ex03-Univariate-Analysis/blob/main/image4.jpg)
 
 ## DATA NULL VALUES
-![output]()
+![output](https://github.com/ragulmani936/Ex03-Univariate-Analysis/blob/main/image5.jpg)
 
 ## DATA'S DATATYPES
-![output]()
+![output](https://github.com/ragulmani936/Ex03-Univariate-Analysis/blob/main/image6.jpg)
 
 ## DATA'S VALUECOUNT
-![output]()
+![output](https://github.com/ragulmani936/Ex03-Univariate-Analysis/blob/main/image7.jpg)
 
 ## BOXPLOT
-![output]()
+![output](https://github.com/ragulmani936/Ex03-Univariate-Analysis/blob/main/image8.jpg)
 
 ## COUNTPLOT
-![output]()
+![output](https://github.com/ragulmani936/Ex03-Univariate-Analysis/blob/main/image9.jpg)
 
 ## DISTRIBUTION PLOT
-![output]()
+![output](https://github.com/ragulmani936/Ex03-Univariate-Analysis/blob/main/image10.jpg)
 ## HISTOGRAM PLOT
-![output]()
+![output](https://github.com/ragulmani936/Ex03-Univariate-Analysis/blob/main/image11.jpg)
 
 ## RESULT:
 Thus we have read the given data and performed the univariate analysis with different types of plots.
