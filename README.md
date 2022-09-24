@@ -22,7 +22,7 @@ Do plots like boxplots,countplot,distribution plot,histogram plot.
 ## PROGRAM:
 Developed by : RAGUL M
 Registration Number : 212221230080
-
+~~~
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -43,7 +43,7 @@ sns.boxplot(x='Postal Code', data=df)
 sns.countplot(x='Postal Code',data=df)
 sns.distplot(df["Postal Code"])
 sns.histplot(x='Postal Code',data=df)
-
+~~~
 ## OUTPUT:
 ![output]()
 
